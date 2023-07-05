@@ -37,12 +37,12 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/dhruvagarwal29/image-recognition-app.git
+   git clone https://github.com/dhruvagarwal29/image_recognition_app.git
    ```
 
 2. Install the dependencies:
    ```shell
-   cd image-recognition-app
+   cd image_recognition_app
    npm install
    ```
 3. Run the application:
