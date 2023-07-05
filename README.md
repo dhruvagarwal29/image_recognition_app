@@ -4,12 +4,12 @@ This web application allows users to perform image recognition tasks using a pre
 
 ## Demo
 
-Check out the live demo of the app: [https://image-recognition-app-dhruvagarwal29.vercel.app/](https://image-recognition-app-dhruvagarwal29.vercel.app/)
+Check out the live demo of the app: [https://image-recognition-app-dhruvagarwal29.vercel.app/](https://dimage-recognition.vercel.app/)
 
 ## Technologies Used
 
 - HTML
-- CSS
+- CSS/SCSS
 - JavaScript
 - React.js
 - Node.js
@@ -46,16 +46,17 @@ To get a local copy up and running, follow these steps:
    npm install
    ```
 3. Run the application:
-   ```shell 
+   ```shell
    npm start
-The app will be running on `http://localhost:3000`.
+   The app will be running on `http://localhost:3000`.
+   ```
 
 ## Working
 
 1. Access the application through the provided URL or by running it locally.
 2. Click on the "Upload Image" button to select an image from your computer.
 3. Wait for the prediction results to appear.
-4. The predicted labels will be displayed below the image.
+4. The predicted labels will be displayed by the image.
 
 ## Contributing
 
@@ -66,4 +67,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 If you have any questions or need assistance, feel free to reach out to the me:
 
 - Name: Dhruv Agarwal
-- Email: dhruv@example.com
+- Email: dhruvagar29@gmail.com
