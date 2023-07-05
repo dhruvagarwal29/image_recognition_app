@@ -4,7 +4,7 @@ This web application allows users to perform image recognition tasks using a pre
 
 ## Demo
 
-Check out the live demo of the app: [https://image-recognition-app-dhruvagarwal29.vercel.app/](https://dimage-recognition.vercel.app/)
+Check out the live demo of the app: [https://dimage-recognition.vercel.app/](https://dimage-recognition.vercel.app/)
 
 ## Technologies Used
 
